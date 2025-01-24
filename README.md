@@ -1,5 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm VeeraBabu Jakkula</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+
+<p align="center">
+  <!-- Typing Animation -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+Profile!;I'm+Jakkula+Veerababu;BTech+2nd+Year+Student;At+Narasaraopet+Engineering+College;AI+and+Tech+Enthusiast;Open-Source+Contributor&font=Fira+Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakkulaveerababu&label=Profile%20views&color=0e75b6&style=flat" alt="jakkulaveerababu" /> </p>
 
@@ -28,10 +36,64 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jakkulaveerababu&" alt="jakkulaveerababu" /></p>
 
+---
 
-# theflash9z-
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+### 🎥 Latest YouTube Video
 
+<p align="center">
+  <!-- YouTube Video Embed -->
+  <a href="https://youtube.com/@theflash9z?si=z3o06EbUEvz2rEF6">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+---
+
+### 💬 Let's Connect
+
+<p align="center">
+  <!-- Social Media Links -->
+  <a href="https://www.linkedin.com/in/jakkula-veerababu-b56660301">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/theflash9z">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:squadpanda447@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://youtube.com/@theflash9z?si=z3o06EbUEvz2rEF6">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jakkulaveerababu&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 🎵 Now Playing on Spotify
+
+<p align="center">
+  <!-- Spotify Now Playing -->
+  <a href="https://open.spotify.com/playlist/4ZUfdg1LU5tHVSsDsAq6Bq?si=pUINN36lQQqF0-e7ax6fJA&pi=no1uDAt0Q_2oo">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/4ZUfdg1LU5tHVSsDsAq6Bq?si=pUINN36lQQqF0-e7ax6fJA&pi=no1uDAt0Q_2oo">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=@theflash9z2&cover_image=true&theme=novatorem" alt="Spotify Now Playing" />
+  </a>
+</p>
 # Hello World!, Jakkula Veerababu  👋🏼:
 🛜 My LinkedIn  [profile](https://www.linkedin.com/in/jakkula-veerababu-b56660301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>👨🏼‍🎓 studying Btech electronics and communication engineering at Narasaraopet engineering college <br>👨🏼‍💻 Under graduate  <br>🎬 just started out with my youtube channel <i>Jakkula VeeraBabu</i>
 
