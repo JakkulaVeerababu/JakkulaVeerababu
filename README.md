@@ -112,8 +112,6 @@
 # Duo-
 ## Hello There!
 
-I'm [Jakkula Veerababu](https://zijie.wang), 
-JUST FOR EDUCATIONAL PURPOSE 
 My work focuses on making AI more accessible, interpretable, and accountable, by
 designing and developing novel **Interactive Interfaces** for people to easily
 and enjoyably interact with **Machine Learning systems** at scale.
